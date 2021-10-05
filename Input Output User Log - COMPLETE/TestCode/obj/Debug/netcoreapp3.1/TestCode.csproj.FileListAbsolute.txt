@@ -1,0 +1,26 @@
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.csprojAssemblyReference.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.AssemblyInfoInputs.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.AssemblyInfo.cs
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\bin\Debug\netcoreapp3.1\TestCode.exe
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\bin\Debug\netcoreapp3.1\TestCode.deps.json
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\bin\Debug\netcoreapp3.1\TestCode.runtimeconfig.json
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\bin\Debug\netcoreapp3.1\TestCode.runtimeconfig.dev.json
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\bin\Debug\netcoreapp3.1\TestCode.dll
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\bin\Debug\netcoreapp3.1\TestCode.pdb
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.dll
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.pdb
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\2022\csharp test\TestCode\TestCode\obj\Debug\netcoreapp3.1\TestCode.genruntimeconfig.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.csprojAssemblyReference.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.AssemblyInfoInputs.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.AssemblyInfo.cs
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.dll
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.pdb
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\bin\Debug\netcoreapp3.1\TestCode.exe
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\bin\Debug\netcoreapp3.1\TestCode.deps.json
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\bin\Debug\netcoreapp3.1\TestCode.runtimeconfig.json
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\bin\Debug\netcoreapp3.1\TestCode.runtimeconfig.dev.json
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\bin\Debug\netcoreapp3.1\TestCode.dll
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\bin\Debug\netcoreapp3.1\TestCode.pdb
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\1. Input Output User Log\TestCode\obj\Debug\netcoreapp3.1\TestCode.genruntimeconfig.cache
