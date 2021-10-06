@@ -4,6 +4,4 @@ ICS4U
 Chaim Straus
 Dr. A. Selis
 
-```bash
-<3 you!
-```
+![An excellent meme](https://i.redd.it/r8odgr7schi11.jpg)
