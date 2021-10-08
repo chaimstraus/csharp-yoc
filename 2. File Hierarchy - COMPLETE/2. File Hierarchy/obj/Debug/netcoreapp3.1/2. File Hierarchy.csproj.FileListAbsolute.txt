@@ -1,0 +1,18 @@
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.csprojAssemblyReference.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.AssemblyInfoInputs.cache
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.AssemblyInfo.cs
+C:\Users\Allen\OneDrive - Tech EdVentures\Content\ICS4U\Code Folder\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\bin\Debug\netcoreapp3.1\2. File Hierarchy.exe
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\bin\Debug\netcoreapp3.1\2. File Hierarchy.deps.json
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\bin\Debug\netcoreapp3.1\2. File Hierarchy.runtimeconfig.json
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\bin\Debug\netcoreapp3.1\2. File Hierarchy.runtimeconfig.dev.json
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\bin\Debug\netcoreapp3.1\2. File Hierarchy.dll
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\bin\Debug\netcoreapp3.1\2. File Hierarchy.pdb
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.csproj.AssemblyReference.cache
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.AssemblyInfoInputs.cache
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.AssemblyInfo.cs
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.dll
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.pdb
+C:\Users\chaim\Desktop\2. File Hierarchy\2. File Hierarchy\obj\Debug\netcoreapp3.1\2. File Hierarchy.genruntimeconfig.cache
