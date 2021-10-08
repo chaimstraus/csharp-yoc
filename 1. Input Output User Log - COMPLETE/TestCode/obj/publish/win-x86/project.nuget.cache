@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fUHUWFPd7vh3VkljEtDw2NKukpEBrwwFiiK2rdDCYq/dgmmEm/psH+bDFuITIhiJuZX3f2c2tqvdtlKzdl/kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chaim\\Desktop\\1. Input Output User Log\\1. Input Output User Log\\TestCode\\TestCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.19\\microsoft.netcore.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\chaim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.19\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\chaim\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.19\\microsoft.aspnetcore.app.runtime.win-x86.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

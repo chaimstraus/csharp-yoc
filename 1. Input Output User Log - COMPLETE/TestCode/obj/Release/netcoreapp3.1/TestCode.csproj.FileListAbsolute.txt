@@ -1,0 +1,13 @@
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\bin\Release\netcoreapp3.1\TestCode.exe
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\bin\Release\netcoreapp3.1\TestCode.deps.json
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\bin\Release\netcoreapp3.1\TestCode.runtimeconfig.json
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\bin\Release\netcoreapp3.1\TestCode.runtimeconfig.dev.json
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\bin\Release\netcoreapp3.1\TestCode.dll
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\bin\Release\netcoreapp3.1\TestCode.pdb
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.AssemblyInfoInputs.cache
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.AssemblyInfo.cs
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.csproj.CoreCompileInputs.cache
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.dll
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.pdb
+C:\Users\chaim\Desktop\1. Input Output User Log\1. Input Output User Log\TestCode\obj\Release\netcoreapp3.1\TestCode.genruntimeconfig.cache

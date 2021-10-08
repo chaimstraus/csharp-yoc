@@ -1,0 +1,5 @@
+C:\Users\chaim\Desktop\CS1\TestCode.exe
+C:\Users\chaim\Desktop\CS1\TestCode.dll
+C:\Users\chaim\Desktop\CS1\TestCode.deps.json
+C:\Users\chaim\Desktop\CS1\TestCode.runtimeconfig.json
+C:\Users\chaim\Desktop\CS1\TestCode.pdb
