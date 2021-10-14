@@ -15,7 +15,7 @@ namespace TestCode
             Console.WriteLine("What year were you born?");
             int birth_year = Convert.ToInt32(  Console.ReadLine() );
 
-            Console.Write("{0} was born in {1}" ,name, birth_year);
+            Console.Write($"{name} was born in {birth_year}");
             Console.WriteLine(" of the Common Era.");
             Console.WriteLine("That was " + (this_year - birth_year) + " years ago.");
 
