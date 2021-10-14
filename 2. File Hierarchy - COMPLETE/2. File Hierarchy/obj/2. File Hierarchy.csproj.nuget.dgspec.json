@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chaim\\Desktop\\2. File Hierarchy\\2. File Hierarchy\\2. File Hierarchy.csproj": {}
+    "C:\\Users\\chaim\\source\\repos\\csharp-yoc\\2. File Hierarchy - COMPLETE\\2. File Hierarchy\\2. File Hierarchy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chaim\\Desktop\\2. File Hierarchy\\2. File Hierarchy\\2. File Hierarchy.csproj": {
+    "C:\\Users\\chaim\\source\\repos\\csharp-yoc\\2. File Hierarchy - COMPLETE\\2. File Hierarchy\\2. File Hierarchy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chaim\\Desktop\\2. File Hierarchy\\2. File Hierarchy\\2. File Hierarchy.csproj",
+        "projectUniqueName": "C:\\Users\\chaim\\source\\repos\\csharp-yoc\\2. File Hierarchy - COMPLETE\\2. File Hierarchy\\2. File Hierarchy.csproj",
         "projectName": "2. File Hierarchy",
-        "projectPath": "C:\\Users\\chaim\\Desktop\\2. File Hierarchy\\2. File Hierarchy\\2. File Hierarchy.csproj",
+        "projectPath": "C:\\Users\\chaim\\source\\repos\\csharp-yoc\\2. File Hierarchy - COMPLETE\\2. File Hierarchy\\2. File Hierarchy.csproj",
         "packagesPath": "C:\\Users\\chaim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chaim\\Desktop\\2. File Hierarchy\\2. File Hierarchy\\obj\\",
+        "outputPath": "C:\\Users\\chaim\\source\\repos\\csharp-yoc\\2. File Hierarchy - COMPLETE\\2. File Hierarchy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
