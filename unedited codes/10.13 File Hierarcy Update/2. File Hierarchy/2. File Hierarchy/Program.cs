@@ -13,11 +13,13 @@ namespace TestCode
             string name = Console.ReadLine();
 
             Console.WriteLine("What year were you born?");
-            int birth_year = Convert.ToInt32(Console.ReadLine() );
+            int birth_year = Convert.ToInt32(Console.ReadLine());
 
+            /*
             Console.Write($"{name} was born in {birth_year}");
             Console.Write(" of the Common Era.");
-            Console.WriteLine("That was " + (current_year - birth_year) + " years ago.");
+            Console.WriteLine(" That was " + (current_year - birth_year) + " years ago.");
+            */
 
             /* TUTORIAL:
              * Type Casting:    https://www.w3schools.com/cs/cs_type_casting.php
@@ -35,7 +37,7 @@ namespace TestCode
 
             using (StreamWriter names = File.AppendText("data\\date.txt"))
             using (StreamWriter birth_years = File.AppendText("data\\name.txt"))
-            using (StreamWriter output = File.AppendText("data\\output.txt"))
+            using (StreamWriter output = File.AppendText("data\\output_log.txt"))
             {
                 names.WriteLine(name);
                 birth_years.WriteLine(birth_year);
